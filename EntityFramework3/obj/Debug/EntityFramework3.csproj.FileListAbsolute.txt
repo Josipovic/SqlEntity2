@@ -1,0 +1,15 @@
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework3\EntityFramework3\bin\Debug\EntityFramework3.exe.config
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework3\EntityFramework3\bin\Debug\EntityFramework3.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework3\EntityFramework3\bin\Debug\EntityFramework3.pdb
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework3\EntityFramework3\bin\Debug\EntityFramework.dll
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework3\EntityFramework3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework3\EntityFramework3\bin\Debug\EntityFramework.xml
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework3\EntityFramework3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework3\EntityFramework3\obj\Debug\EntityFramework3.csprojAssemblyReference.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework3\EntityFramework3\obj\Debug\EntityFramework3.csproj.CoreCompileInputs.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework3\EntityFramework3\obj\Debug\EntityFramework3.csproj.CopyComplete
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework3\EntityFramework3\obj\Debug\EntityFramework3.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework3\EntityFramework3\obj\Debug\EntityFramework3.pdb
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework3\EntityFramework3\obj\Debug\EntityFramework3.Migrations.InitialCreate.resources
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework3\EntityFramework3\obj\Debug\EntityFramework3.csproj.GenerateResource.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework3\EntityFramework3\obj\Debug\EntityFramework3.Migrations.prva.resources
